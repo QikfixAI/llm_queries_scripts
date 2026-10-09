@@ -115,6 +115,7 @@ Examples:
 
 ```bash
 python python/llm_query_describing_picture_from_file_or_folder_all_parameters.py --folder python/photo
+
 python python/llm_query_describing_picture_from_file_or_folder_all_parameters.py \
   --file python/photo/cat.jpg --msg "What breed is this?"
 ```
